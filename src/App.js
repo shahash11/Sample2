@@ -2,7 +2,7 @@ import React from 'react'
 import Counter from './components/Counter'
 const App = () => {
   return (
-    <div>
+    <div> This is app file
       <Counter />
     </div>
   )
