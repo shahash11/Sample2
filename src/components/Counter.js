@@ -2,7 +2,9 @@ import React from 'react'
 
 const Counter = () => {
   return (
-    <div>Counter folder</div>
+    <div>
+      <p>Counter Folder in the p tag</p>
+    </div>
   )
 }
 
