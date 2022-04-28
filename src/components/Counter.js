@@ -4,6 +4,7 @@ const Counter = () => {
   return (
     <div>
       <p>Counter Folder in the p tag</p>
+      <b>Shahash</b>
     </div>
   )
 }
